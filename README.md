@@ -1,1 +1,1 @@
-Son la instrucciones del curso de Geofísica con python
+Espero les guste este repositorio
